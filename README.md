@@ -11,6 +11,7 @@ Use data to drive understanding of campaign outcomes to increase campaign succes
 
 Pivot table in worksheet labeled "Theater Outcomes by Launch Date":
 ![Parent Category Outcomes.png](https://github.com/krisnagoda/kickstarter-analysis/blob/5546f68f30a49dd57dfb42bc90d6f2a46d5f20b5/Theater_Outcomes_vs_Launch_Pivot.png)
+
 Line chart showing number of successful, failed, or canceled projects by month:
 ![Parent Category Outcomes.png](https://github.com/krisnagoda/kickstarter-analysis/blob/5546f68f30a49dd57dfb42bc90d6f2a46d5f20b5/Theater_Outcomes_vs_Launch.png)
 
@@ -18,6 +19,7 @@ Line chart showing number of successful, failed, or canceled projects by month:
 
 Data table in worksheet labeled "Outcome Based Goals":
 ![Outcome_Based_Goals_Data.png](https://github.com/krisnagoda/kickstarter-analysis/blob/29b5752e4fde6296e7323598f8e077c21c1e4b48/Outcome_Based_Goals_Data.png)
+
 Line chart showing goal-amount ranges on the xaxis and percentage of successful, failed, or canceled projects on the yaxis:
 ![Outcomes_vs_Goals.png](https://github.com/krisnagoda/kickstarter-analysis/blob/8e5ae125d74f39fcc1b0dd17e29e47116d9653c6/Outcomes_vs_Goals.png)
 
