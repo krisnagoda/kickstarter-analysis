@@ -5,7 +5,7 @@
 Understand how other campaigns performed based on launch date and goal. 
 
 ### Purpose
-Use data to drive insight into campaign outcomes to increase campaign success. 
+Use data to drive insight into prior campaign outcomes to increase campaign success. 
 
 ### Analysis of Outcomes Based on Launch Date
 
