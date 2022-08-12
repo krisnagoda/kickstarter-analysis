@@ -40,6 +40,11 @@ This analysis required unix date conversion, many functions (like IF, COUNTIFS a
 
 - What can you conclude about the Outcomes based on Goals?
 
+  1. The sweet spots, or range in this case, for the successful outcome is less than $1,000 – $5,000 and $35,000 - $40,000
+  2. With successful and failed outcomes when one goes up, the other goes down because we had zero canceled outcomes
+
 - What are some limitations of this dataset?
+
+  1. Other data related to what might make one campaign more successful than another. For example, what if a specific playwright had a fan base that could support a larger goal?
 
 - What are some other possible tables and/or graphs that we could create?
