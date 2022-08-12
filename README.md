@@ -5,7 +5,7 @@
 Understand how other campaigns performed based on launch date and goal. 
 
 ### Purpose
-Use data to drive understanding of campaign outcomes to increase campaign success. 
+Use data to drive insight into campaign outcomes to increase campaign success. 
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -35,8 +35,8 @@ This analysis required unix date conversion, many functions (like IF, COUNTIFS a
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-1. The month of July nets the highest total successful theater outcomes
-2. September, October, November and December smallest gap between successful and failed theater outcomes
+  1. The month of July nets the highest total successful theater outcomes
+  2. September, October, November and December have the smallest gap between successful and failed theater outcomes
 
 - What can you conclude about the Outcomes based on Goals?
 
